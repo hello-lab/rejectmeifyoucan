@@ -160,7 +160,7 @@ const s = type(a)
 	
 		const b=clear()
 
-		setTimeout(() => {const c = type('COME ON U WOULD RATHER "TRY" TO CLICK A GOOSE >47 TIMES THAN PRESS YES ONCE..')
+		setTimeout(() => {const c = type('COME ON U WOULD RATHER "TRY" TO CLICK A GOOSE MORE THAN 47 TIMES THAN PRESS YES ONCE..')
 											setTimeout(() => {const a = type('IM JUST HURT.....')},c)
 										 
 										 
