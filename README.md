@@ -26,6 +26,4 @@ Because this template uses Vite to build your code, you can add install and use 
 
 Check out [the vite docs](https://vitejs.dev) to learn more about configuring a frontend application.# rejectmeifyoucan
 # rejectmeifyoucan
-# rejectmeifyoucan
-# rejectmeifyoucan
-# rejectmeifyoucan
+
